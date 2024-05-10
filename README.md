@@ -187,6 +187,8 @@
 
 - Server on previous version are shown yellow (you can still play on them)
 
+- Previous versions cannot play on updated servers (server will be shown in red)
+
 - Added option to select tdm map size (small/medium/large) when changing levels (server-side and not test yet)
 e.g.: /vote_map St_Albans tdm small
 
